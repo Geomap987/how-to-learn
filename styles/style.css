@@ -60,6 +60,11 @@
   text-decoration: none;
 }
 
+.header__link:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .header__main-illustration {
   position: absolute;
   right: 0px;
@@ -230,6 +235,11 @@
   color: #000000
 }
 
+.feinman__link:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .kaufman {
   flex-direction: column;
   display: flex;
@@ -344,6 +354,11 @@
 .footer__link {
   text-decoration: none;
   color: white;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 .footer__social-icon {
