@@ -245,7 +245,7 @@
   display: flex;
   position: relative;
   justify-content: center;
-  background-color: #000000;
+  background-color: #1F1F1F;
   overflow: hidden;
 }
 
@@ -289,7 +289,7 @@
 .footer {
   display: flex;
   min-height: 350px;
-  background-color: black;
+  background-color: #1F1F1F;
 }
 
 .footer__columns {
@@ -362,7 +362,7 @@
 }
 
 .footer__social-icon {
-  width: 26px;
+  width: 16px;
   height: 16px;
   margin-right: 10px;
 }
