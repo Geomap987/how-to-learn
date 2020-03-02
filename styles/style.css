@@ -98,15 +98,12 @@
 }
   
 .two-columns__brief {
-  width: 175px;
-  color:  #2f80ED; 
-}
-
-.two-columns__brief-text {
   margin-top: 0;
+  font-weight: normal;
+  width: 175px;
+  color:  #2f80ED;
   line-height: 1.2;
   font-size: 18px;
-  font-weight: normal;
 }
 
 .two-columns__main-text {
